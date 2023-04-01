@@ -1,0 +1,26 @@
+{
+    "files": {
+        "README.md": "75c2bee8e6664fbc487b60223b4c2b3e06246e4ee957edc2e1b883f56a95c162",
+        "lib/language-detector/LICENSE": "84912a26f83f364da008f21740f703434e380ed1658a9a00c9f3b8e5b045df36",
+        "lib/language-detector/data/lang.json": "a26067df3f9f3f4498132c37cd8fdb5b2621be07b2db9483edc7fde51ca02031",
+        "lib/language-detector/data/unicode_blocks.json": "60945d5e293568e0591625a286be98b246893d08dc133c4bba02eeaa4f716ed4",
+        "lib/language-detector/index.js": "b0e52b0ed41f5c8e1ad601be66c160d741e7f2b99e50c5e3c5edff51b4f3623c",
+        "lib/language-detector/lib/ISO639.js": "07ae63de281a38ed0f0d05eab368d6a0d59f981b3972814028dfd648665dcb07",
+        "lib/language-detector/lib/LanguageDetect.js": "8dbc5e218a1990a908d435963d6500b78849b4cd3977c1f837615efdb36ad6bb",
+        "lib/language-detector/lib/Parser.js": "492f50f49566effeaa0d37d1078915aba4477d4018c09bda228f7f68b07bec13",
+        "lib/language-detector/package.json": "025d2442278dfd6f96c728bfa7824952764320af69b63c7e2ae1d7e7d07d38d6",
+        "module.json": "80e3417edcbaeffdaa36bbd2e356583bc0a760c18cfa9e5352e71b2d207da56e",
+        "package.json": "fd161ab1a4915ba68e0252dbabd8d033ab457c205f580cef4f8f7a51c6860450",
+        "src/index.js": "7aab56ae974938a7007a57bdb2eb9780a10936a19de58fe449b367a5765741b1",
+        "src/normalize.js": "54eb83ca3e15898f72091ba6bac1c8067972a2c03145ff72647de362175d9efa",
+        "src/setting_migration.js": "f842ae0416f3d63b239bf3757b8ffb76da25b61cbc4cd55c07769da0c59fac3d",
+        "src/translate.js": "f3473d85bc63a55a9590b4f0b549221966496b8027eea05288d26e68c66e4781"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "C_WHISPER": 1,
+        "S_CHAT": 2,
+        "S_PRIVATE_CHAT": 1,
+        "S_WHISPER": 2
+    }
+}

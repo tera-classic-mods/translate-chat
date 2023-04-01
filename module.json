@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "translate-chat",
+    "author": "Prav",
+    "version": "4/1/2023",
+    "description": "Translates incoming and outgoing messages to another language using Google Translate.",
+    "options": {
+        "niceName": "translate-chat",
+        "settingsVersion": 2,
+        "settingsFile": "config.json",
+        "settingsMigrator": "src/setting_migration.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-classic-mods/translate-chat/master/"]
+}
